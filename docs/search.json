@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vivian Y Meng",
     "section": "",
-    "text": "Hi! Welcome to my personal website…. I’m currently working at the Curriculum Vitae"
+    "text": "Hi! Welcome to my personal website…. Curriculum Vitae to be uploaded."
   },
   {
     "objectID": "about.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Teaching Portfolio",
+    "title": "Portfolio",
     "section": "",
-    "text": "Here are a few examples of teaching resources I created for undergraduate teaching:\n\nInteractive html worksheet on paired comparison for Intro Stats\n\nMade with Quarto-live. This activity provides a web-based interactive environment for students to visualize and manipulate paired-data in the context of learning to infer difference in means of two populations. Incorporates simple auto-graded questions to reward students for engaging in the material.\n\nSimulation study demonstrating advantage of stratified sampling for Intro Stats\n\nThe accompanying slides contains original content and material courtesy of Prof. Eugenia Yu.\n\nWorksheet on Continuous RV for Intro Probability\n\nIntroduces continuous RV through a thought experiment on uniform point picking, followed by introduction of concepts and exercises."
+    "text": "Here are a few highlights of teaching resources I created for undergraduate teaching:\n\nInteractive html worksheet on paired comparison for Intro Stats\n\nMade with Quarto-live. This activity provides a web-based interactive environment for students to visualize and manipulate paired-data in the context of learning to infer difference in means of two populations. Incorporates simple auto-graded questions to reward students for engaging in the material.\n\nSimulation study demonstrating advantage of stratified sampling for Intro Stats\n\nThe accompanying slides contains original content and material courtesy of Prof. Eugenia Yu.\n\nWorksheet on Continuous RV for Intro Probability\n\nIntroduces continuous RV through a thought experiment on uniform point picking, followed by introduction of concepts and exercises."
   },
   {
     "objectID": "index.html#teaching-portfolio",

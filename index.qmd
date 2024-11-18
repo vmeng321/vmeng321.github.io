@@ -17,8 +17,8 @@ about:
 ---
  
 
-Hi! Welcome to my personal website.... I'm currently working at the
-[Curriculum Vitae]()
+Hi! Welcome to my personal website....
+[Curriculum Vitae]() to be uploaded.
 
 ## Education
 
