@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Vivian Y Meng",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut scelerisque justo a nibh vestibulum venenatis. Nam vestibulum, risus sed faucibus ornare, enim eros vestibulum sem, quis laoreet nisl sapien ut leo. Pellentesque tincidunt facilisis odio, a fringilla turpis dapibus at. Mauris volutpat, enim sit amet egestas ornare, nunc ex porta ipsum, non cursus diam risus non magna. Praesent nisl ex, dictum sed leo eu, tristique euismod nibh. Aenean eget efficitur metus, at elementum sem. Etiam id odio eget quam semper hendrerit. Suspendisse eu neque felis. Sed volutpat faucibus massa, at pellentesque tellus.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "Hi! Welcome to my personal website…. I’m currently working at the Curriculum Vitae"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Here is something about this website I wonder… Something something."
   },
   {
     "objectID": "index.html#lorem-ipsum",
@@ -31,14 +31,28 @@
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Vivian Y Meng",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "section": "Experience",
+    "text": "Experience\nLecturer |Department of Statistics, UBC | Jan 2023 - present"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Vivian Y Meng",
+    "section": "Education",
+    "text": "Education\n\nPhD in Mathematics and Statistics\n\nMcGill University, Montréal, Quebec, Canada | Sept 2014 - May 2022\n\nMSc in Statistics\n\nUniversity of British Columbia, Vancouver, B.C., Canada | Sept 2012 - August 2014\n\nBASc in Mechanical Engineering\n\nQueen’s University, Kingston, Ontario, Canada | Sept 2003 - August 2008"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Teaching Portfolio",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "Here are a few examples of teaching resources I created for undergraduate teaching:\n\nInteractive html worksheet on paired comparison for Intro Stats\n\nMade with Quarto-live. This activity provides a web-based interactive environment for students to visualize and manipulate paired-data in the context of learning to infer difference in means of two populations. Incorporates simple auto-graded questions to reward students for engaging in the material.\n\nSimulation study demonstrating advantage of stratified sampling for Intro Stats\n\nThe accompanying slides contains original content and material courtesy of Prof. Eugenia Yu.\n\nWorksheet on Continuous RV for Intro Probability\n\nIntroduces continuous RV through a thought experiment on uniform point picking, followed by introduction of concepts and exercises."
+  },
+  {
+    "objectID": "index.html#teaching-portfolio",
+    "href": "index.html#teaching-portfolio",
+    "title": "Vivian Y Meng",
+    "section": "Teaching portfolio",
+    "text": "Teaching portfolio\n\nAAAAAA\nBBBBBB\nCCCCCC"
   }
 ]

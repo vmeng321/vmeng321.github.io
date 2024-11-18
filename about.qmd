@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-About this site
+Here is something about this website I wonder...
+Something something.

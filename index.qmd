@@ -3,10 +3,10 @@ title: "Vivian Y Meng"
 image: media/profilePhoto.png
 toc: false
 about: 
-  id: hero-heading
-  template: trestles
+  #id: hero-heading
+  template: solana
   image-shape: round
-  image-width: 17em
+  image-width: 15em
 #  links:
    # - text: LinkedIn
    #  href: https://www.linkedin.com/in/samanthacsik/
@@ -16,26 +16,23 @@ about:
   #    href: vivian.meng[at]stat.ubc.ca
 ---
  
-### This content appears above the formatted about page content.
 
-:::{#hero-heading}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut scelerisque justo a nibh vestibulum venenatis. Nam vestibulum, risus sed faucibus ornare, enim eros vestibulum sem, quis laoreet nisl sapien ut leo. Pellentesque tincidunt facilisis odio, a fringilla turpis dapibus at. Mauris volutpat, enim sit amet egestas ornare, nunc ex porta ipsum, non cursus diam risus non magna. Praesent nisl ex, dictum sed leo eu, tristique euismod nibh. Aenean eget efficitur metus, at elementum sem. Etiam id odio eget quam semper hendrerit. Suspendisse eu neque felis. Sed volutpat faucibus massa, at pellentesque tellus.
+Hi! Welcome to my personal website.... I'm currently working at the
+[Curriculum Vitae]()
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+PhD in Mathematics and Statistics
+: McGill University, Montréal, Quebec, Canada | Sept 2014 - May 2022
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+MSc in Statistics
+: University of British Columbia, Vancouver, B.C., Canada | Sept 2012 - August 2014
+    
+BASc in Mechanical Engineering
+: Queen's University, Kingston, Ontario, Canada | Sept 2003 - August 2008
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+**Lecturer** |Department of Statistics, UBC | Jan 2023 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-:::
 
-### This content appears below the formatted about page content.
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
