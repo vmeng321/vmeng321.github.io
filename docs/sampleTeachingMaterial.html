@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Vivian Y Meng – vmeng321.github.io</title>
+<title>Sample Teaching Material – vmeng321.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-07ba0ad10f5680c660e360ac31d2f3b6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -70,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -88,11 +89,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./sampleTeachingMaterial.html"> 
+    <a class="nav-link active" href="./sampleTeachingMaterial.html" aria-current="page"> 
 <span class="menu-text">Sample Teaching Material</span></a>
   </li>  
 </ul>
@@ -106,50 +107,50 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
-<!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Vivian Y Meng</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header> 
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hi! Welcome to my personal website…. <a href="">Curriculum Vitae</a> to be uploaded.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<dl>
-<dt>PhD in Mathematics and Statistics</dt>
-<dd>
-McGill University, Montréal, Quebec, Canada | Sept 2014 - May 2022
-</dd>
-<dt>MSc in Statistics</dt>
-<dd>
-University of British Columbia, Vancouver, B.C., Canada | Sept 2012 - August 2014
-</dd>
-<dt>BASc in Mechanical Engineering</dt>
-<dd>
-Queen’s University, Kingston, Ontario, Canada | Sept 2003 - August 2008
-</dd>
-</dl>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p><strong>Lecturer</strong> |Department of Statistics, UBC | Jan 2023 - present</p>
-
-
-</section>
-</main></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
-    <img src="media/profilePhoto.png" class="about-image
-  round " style="height: 15em; width: 15em;">
-  </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Sample Teaching Material</h1>
 </div>
- <!-- /main -->
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Here are a few highlights of teaching resources I created for undergraduate teaching:</p>
+<ul>
+<li><a href="https://vmeng-stats.quarto.pub/chapter-20---comparing-means-using-paired-data/">Interactive html worksheet on paired comparison for Intro Stats</a>
+<ul>
+<li>Made with Quarto-live. This activity provides a web-based interactive environment for students to visualize and manipulate paired-data in the context of learning to infer difference in means of two populations. Incorporates simple auto-graded questions to reward students for engaging in the material.</li>
+</ul></li>
+<li><a href="media/chapter9.demo.html">Simulation study demonstrating advantage of stratified sampling for Intro Stats</a>
+<ul>
+<li>The accompanying <a href="media/chapter09.slides-2.html">slides</a> contains original content and material courtesy of Prof.&nbsp;Eugenia Yu.</li>
+</ul></li>
+<li><a href="media/module-6-worksheet1-2023w2.pdf">Worksheet on Continuous RV for Intro Probability</a>
+<ul>
+<li>Introduces continuous RV through a thought experiment on uniform point picking, followed by introduction of concepts and exercises.</li>
+</ul></li>
+</ul>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -170,6 +171,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Sample Teaching Material"
 ---
 
 Here are a few highlights of teaching resources I created for undergraduate teaching:
