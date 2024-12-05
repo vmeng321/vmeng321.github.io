@@ -17,8 +17,7 @@ about:
 ---
  
 
-Hi! Welcome to my personal website....
-[Curriculum Vitae]() to be uploaded.
+[Curriculum Vitae](media/CV-teaching-2024Nov.pdf) 
 
 ## Education
 
