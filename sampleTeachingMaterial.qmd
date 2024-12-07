@@ -4,13 +4,18 @@ title: "Sample Teaching Material"
 
 Here are a few highlights of teaching resources I created for undergraduate teaching:
 
-* [Interactive html worksheet on paired comparison for Intro Stats](https://vmeng-stats.quarto.pub/chapter-20---comparing-means-using-paired-data/)
+* [**Interactive html** worksheet on paired comparison for Intro Stats](https://vmeng-stats.quarto.pub/chapter-20---comparing-means-using-paired-data/)
   * Made with Quarto-live. This activity provides a web-based interactive environment for students to visualize and manipulate paired-data in the context of learning to infer difference in means of two populations. Incorporates simple auto-graded questions to reward students for engaging in the material.
   
-* [Simulation study demonstrating advantage of stratified sampling for Intro Stats](media/chapter9.demo.html)
+* [**Simulation study** demonstrating advantage of stratified sampling for Intro Stats](media/chapter9.demo.html)
   * The accompanying [slides](media/chapter09.slides-2.html) contains original content and material courtesy of Prof. Eugenia Yu.
   
-* [Worksheet on Continuous RV for Intro Probability](media/module-6-worksheet1-2023w2.pdf)
+* **In-class + after-class worksheets** for introducing Bayesian inference in 300 level intro to statistical inference 
+  * [First lecture on interpretation of probability](stat305-lecture-L6.1.pdf)  
+  * [Second lecture on Bayesian update](stat305-lecture-L6.1.pdf)  
+  
+* [**Worksheet on a thought experiment** introducing continuous RV for Intro Probability](media/module-6-worksheet1-2023w2.pdf)
   * Introduces continuous RV through a thought experiment on uniform point picking, followed by introduction of concepts and exercises.
+
   
   
